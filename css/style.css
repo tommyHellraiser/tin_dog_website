@@ -502,6 +502,7 @@ h3 {
 
 .purchase-chihuahua:after {
   content: 'Chihuahua!';
+  color: black;
 }
 
 .purchase-labrador {
@@ -520,6 +521,7 @@ h3 {
 
 .purchase-labrador:after {
   content: 'Labrador!';
+  color: black;
 }
 
 .purchase-mastiff {
@@ -537,6 +539,7 @@ h3 {
 
 .purchase-mastiff:after {
   content: 'Mastiff!';
+  color: white;
 }
 
 @media (max-width: 1250px) {

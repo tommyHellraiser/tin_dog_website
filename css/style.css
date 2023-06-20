@@ -97,6 +97,7 @@ h3 {
 }
 
 .button {
+  color: black;
   border: 1px white solid;
   font-family: sans-serif, cursive;
   font-size: 1.1rem;
